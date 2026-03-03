@@ -5,3 +5,6 @@ Google.Chrome
 # Tools
 7zip.7zip
 VideoLAN.VLC
+
+#Einzeiler für einfach so installieren
+#"Mozilla.Firefox.de","Google.Chrome","7zip.7zip","VideoLAN.VLC" | % { winget install --id $_ --exact --source winget --silent --accept-package-agreements --accept-source-agreements }
