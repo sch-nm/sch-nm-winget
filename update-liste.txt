@@ -2,3 +2,4 @@
 #Automatisch mit der GPO PC_Winget_Basic
 
 Microsoft.OneDrive
+Microsoft.Teams
