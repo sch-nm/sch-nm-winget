@@ -1,3 +1,5 @@
+#Liste der Programme, die immer installiert werden sollen mit der GPO PC_Winget_Basic
+
 # Browser
 Mozilla.Firefox.de
 Google.Chrome
