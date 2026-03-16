@@ -3,3 +3,4 @@
 
 Microsoft.OneDrive
 Microsoft.Teams
+Microsoft.WindowsTerminal
