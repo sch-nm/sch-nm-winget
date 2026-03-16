@@ -1,0 +1,4 @@
+#Liste der Programme, die stets automatisch mit geupdatet werden
+#Automatisch mit der GPO PC_Winget_Basic
+
+Microsoft.OneDrive
