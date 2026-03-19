@@ -1,6 +1,13 @@
 #Liste der Programme, die stets automatisch mit geupdatet werden
 #Automatisch mit der GPO PC_Winget_Basic
 
+# Basic
+Mozilla.Firefox.de
+Google.Chrome
+7zip.7zip
+VideoLAN.VLC
+
+#Rest
 Microsoft.OneDrive
 Microsoft.Teams
 Microsoft.WindowsTerminal
