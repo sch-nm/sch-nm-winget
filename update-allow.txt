@@ -12,3 +12,4 @@ Microsoft.OneDrive
 Microsoft.Teams
 Microsoft.WindowsTerminal
 SchoolCraft.WorksheetCrafter
+TeamViewer.TeamViewer.Host
